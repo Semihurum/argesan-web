@@ -1,0 +1,243 @@
+{
+  "navigation": [
+    {
+      "id": "nav-1",
+      "label": "Hizmetler",
+      "href": "#hizmetler"
+    },
+    {
+      "id": "nav-2",
+      "label": "Katalog",
+      "href": "#katalog"
+    },
+    {
+      "id": "nav-3",
+      "label": "Referanslar",
+      "href": "#referanslar"
+    },
+    {
+      "id": "nav-4",
+      "label": "S.S.S.",
+      "href": "#sss"
+    },
+    {
+      "id": "nav-5",
+      "label": "İletişim",
+      "href": "#iletisim"
+    }
+  ],
+  "hero": {
+    "badge": "KAHRAMANMARAŞ ONİKİŞUBAT — WEB, BİLİŞİM & GÜVENLİK",
+    "title": "İşletmeniz İçin Kurumsal Web, Bilişim, Güvenlik ve Donanım Çözümleri",
+    "description": "Modern mobil uyumlu kurumsal web siteleri, Akınsoft ERP ticari yazılımları, 4K akıllı güvenlik kamera sistemleri ve dokunmatik POS donanımıyla Kahramanmaraş ve çevre illerde işletmenizin yanındayız.",
+    "ctaText": "İletişime Geçin",
+    "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?auto=format&fit=crop&w=1200&q=80"
+  },
+  "services": [
+    {
+      "id": "srv-1",
+      "badge": "MODERN & SEO UYUMLU",
+      "title": "Kurumsal Web Tasarım & Yazılım",
+      "description": "İşletmenizin kurumsal kimliğini ve prestijini dijitale taşıyoruz. Mobil uyumlu, ultra hızlı web siteleri.",
+      "items": [
+        "Mobil Uyumlu (Responsive) Tasarım",
+        "Google SEO Optimizasyonu & Harita Kaydı",
+        "Kolay Kullanımlı Türkçe Yönetim Paneli"
+      ]
+    },
+    {
+      "id": "srv-2",
+      "badge": "E-TİCARET & B2B",
+      "title": "E-Ticaret & Online Katalog Çözümleri",
+      "description": "Ürünlerinizi internet üzerinden doğrudan satışa açın. Sanal POS ve kargo entegrasyonlu mağazalar.",
+      "items": [
+        "Tüm Bankalar Sanal POS (PayTR, İyzico)",
+        "Akınsoft ERP Çift Yönlü Stok Entegrasyonu",
+        "B2B Bayi Portalı & Cari Hesap Takibi"
+      ]
+    },
+    {
+      "id": "srv-3",
+      "badge": "AKINSOFT YETKİLİ BAYİ",
+      "title": "Kurumsal Yazılım & Akınsoft ERP",
+      "description": "Akınsoft Bölge Yetkili Bayisi güvencesiyle Wolvox ERP, hızlı satış ve e-Dönüşüm çözümleri.",
+      "items": [
+        "Wolvox ERP & Ön Muhasebe",
+        "e-Fatura, e-Arşiv, e-İrsaliye Entegrasyonu",
+        "Dokunmatik Restoran/Market POS Sistemi"
+      ]
+    },
+    {
+      "id": "srv-4",
+      "badge": "DAHUA · HIKVISION · UNIVIEW",
+      "title": "Akıllı Güvenlik & Kamera Sistemleri",
+      "description": "Yüksek çözünürlüklü IP ve termal kamera projeleri, yapay zekâ hedef tespitli NVR sistemleri.",
+      "items": [
+        "4K Ultra HD Gece Renkli IP Kameralar",
+        "AI: İnsan/Araç Algılama & Aktif Siren",
+        "Mobil Uzaktan 7/24 Kesintisiz Canlı İzleme"
+      ]
+    },
+    {
+      "id": "srv-5",
+      "badge": "YERİNDE DONANIM KURULUMU",
+      "title": "Ticari Donanım & POS Otomasyonu",
+      "description": "Perakende, market ve restoranlar için yoğun tempoya dayanıklı endüstriyel donanım ve barkod altyapısı.",
+      "items": [
+        "15.6'' Dokunmatik Alüminyum POS Terminalleri",
+        "1D/2D Hızlı Lazer Barkod Okuyucular",
+        "80mm Termal Ağ / Fiş Yazıcıları"
+      ]
+    },
+    {
+      "id": "srv-6",
+      "badge": "K.MARAŞ & ÇEVRE İLLER",
+      "title": "Ağ Altyapısı & IT Teknik Servis (SLA)",
+      "description": "Cat6/Cat7 yapısal kablolama, sunucu bakımı, yedekleme ve şirketlere özel yıllık SLA servis anlaşmaları.",
+      "items": [
+        "PoE Switch & Rack Kabinet Altyapısı",
+        "Otomatik Veri Yedekleme & Güvenlik Duvarı",
+        "Yıllık IT Bakım ve Yerinde Destek Anlaşması"
+      ]
+    }
+  ],
+  "catalogCategories": [
+    "TÜMÜ",
+    "WEB & E-TİCARET",
+    "GÜVENLİK KAMERA",
+    "POS & DONANIM",
+    "YAZICI & BARKOD",
+    "YAZILIM"
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "category": "WEB & E-TİCARET",
+      "categoryBadge": "Web & Yazılım",
+      "title": "Kurumsal Web Sitesi & CMS Yönetim Paneli",
+      "description": "Mobil uyumlu (responsive) kurumsal web tasarımı, Google SEO ve Harita kaydı, kurumsal e-posta, SSL sertifikası, hızlı bulut hosting ve kolay kullanımlı Türkçe yönetim paneli dahil anahtar teslim çözüm.",
+      "image": "/images/products/web-cms-mockup.png"
+    },
+    {
+      "id": "prod-2",
+      "category": "WEB & E-TİCARET",
+      "categoryBadge": "Web & Yazılım",
+      "title": "B2B & E-Ticaret Entegre Sipariş Portalı",
+      "description": "Sanal POS (PayTR, İyzico) ödeme altyapısı, Akınsoft ERP ile anlık çift yönlü stok senkronizasyonu, otomatik kargo entegrasyonu ve bayi B2B cari hesap yönetim sistemi.",
+      "image": "/images/products/b2b-portal-mockup.png"
+    },
+    {
+      "id": "prod-3",
+      "category": "YAZILIM",
+      "categoryBadge": "ERP & Yazılım",
+      "title": "Akınsoft Wolvox ERP Kurumsal Lisans",
+      "description": "Stok, fatura, cari hesap, sipariş, irsaliye, çek/senet ve banka yönetimini tek ekranda toplayan e-Dönüşüm hazır, sınırsız kullanıcı ve şube destekli kurumsal ERP altyapısı.",
+      "image": "/images/products/akinsoft-wolvox-erp.png"
+    },
+    {
+      "id": "prod-4",
+      "category": "GÜVENLİK KAMERA",
+      "categoryBadge": "Güvenlik Kamera",
+      "title": "Dahua 4K Full-Color IP Dome Kamera",
+      "description": "8MP ultra yüksek çözünürlük, F1.0 geniş diyafram ile zifiri karanlıkta 7/24 renkli görüntü. Dahili mikrofon ve hoparlörle iki yönlü ses iletimi, IP67 dış ortam koruması ve yapay zekâ hedef tespiti.",
+      "image": "/images/products/dahua-dome-4k.png"
+    },
+    {
+      "id": "prod-5",
+      "category": "GÜVENLİK KAMERA",
+      "categoryBadge": "Güvenlik Kamera",
+      "title": "Hikvision 4MP AcuSense Bullet Kamera",
+      "description": "Akıllı insan/araç sınıflandırması, 60m kızılötesi gece görüşü. Dahili flaşör ve sesli siren ile aktif caydırıcılık, PoE üzerinden tek kabloyla enerji ve veri aktarımı.",
+      "image": "/images/products/hikvision-bullet-acusense.png"
+    },
+    {
+      "id": "prod-6",
+      "category": "POS & DONANIM",
+      "categoryBadge": "POS & Donanım",
+      "title": "15.6\" Endüstriyel Dokunmatik POS Terminal",
+      "description": "Intel J4125 fansız işlemci, 8GB DDR4 RAM, 128GB SSD. Toza ve sıvı sıçramalarına dayanıklı True-Flat kapasitif dokunmatik ekran, Akınsoft ile %100 uyumlu.",
+      "image": "/images/products/pos-terminal-15-6.png"
+    },
+    {
+      "id": "prod-7",
+      "category": "YAZICI & BARKOD",
+      "categoryBadge": "Yazıcı & Barkod",
+      "title": "Honeywell Voyager 1250g Endüstriyel Barkod Okuyucu",
+      "description": "Yoğun kasalar için agresif lazer okuma. Hasarlı/silik 1D barkodları ilk okumada algılama kabiliyeti, 1.5m beton düşme dayanımı ve USB tak-çalıştır mimari.",
+      "image": "/images/products/honeywell-voyager-1250g.png"
+    },
+    {
+      "id": "prod-8",
+      "category": "YAZICI & BARKOD",
+      "categoryBadge": "Yazıcı & Barkod",
+      "title": "80mm Otomatik Kesicili Ağ/Termal Fiş Yazıcı",
+      "description": "250mm/sn ultra yüksek baskı hızı. USB + Ethernet LAN bağlantısıyla mutfak ve kasa adisyonları için ağdan ortak kullanım, otomatik bıçak ve kolay kağıt yükleme.",
+      "image": "/images/products/thermal-receipt-printer-80mm.png"
+    },
+    {
+      "id": "prod-9",
+      "category": "GÜVENLİK KAMERA",
+      "categoryBadge": "Güvenlik Kamera",
+      "title": "Dahua 16 Kanal 4K H.265+ PoE NVR Kayıt Cihazı",
+      "description": "16 kanal bağımsız PoE portu, 4K Ultra HD eşzamanlı kayıt ve canlı izleme, çift SATA HDD yuvası, yapay zekâ yüz ve insan/araç analizi destekli kurumsal NVR.",
+      "image": "/images/products/dahua-nvr-16ch.png"
+    }
+  ],
+  "faq": [
+    {
+      "id": "faq-1",
+      "question": "Hangi illere servis veriyorsunuz?",
+      "answer": "Başta Kahramanmaraş merkez ve ilçeleri olmak üzere Gaziantep, Adıyaman ve çevre illere yerinde teknik servis ve kurulum sağlıyoruz."
+    },
+    {
+      "id": "faq-2",
+      "question": "Güvenlik kamerası kurulumu ne kadar sürer?",
+      "answer": "Kamera sayısına ve kablolama zorluğuna bağlı olarak 4–8 kameralı sistemler genellikle 1 iş günü, 16 kameralı sistemler 2 iş günü içinde tamamlanmaktadır. Kurulum öncesinde ücretsiz saha keşfi gerçekleştiriyoruz."
+    },
+    {
+      "id": "faq-3",
+      "question": "Akınsoft ERP lisansı nasıl satın alınır?",
+      "answer": "ARGE-SAN Teknoloji yetkili bayisi üzerinden işletmenize en uygun modülleri belirleyip lisanslama, kurulum ve personel eğitimini anahtar teslim yapıyoruz."
+    },
+    {
+      "id": "faq-4",
+      "question": "Yıllık SLA bakım kapsamında neler yer alıyor?",
+      "answer": "Yıllık bakım anlaşmalarımız; kamera ve ağ sistemi periyodik bakımı, yazılım güncelleme takibi, uzaktan teknik destek, öncelikli yerinde müdahale ve donanım garantisini içermektedir."
+    },
+    {
+      "id": "faq-5",
+      "question": "POS terminalleri hangi yazılımlarla çalışır?",
+      "answer": "Sunduğumuz POS terminalleri Windows ve Android tabanlı olup Akınsoft Wolvox, hızlı satış ve yaygın ticari ERP çözümleriyle tam uyumludur."
+    },
+    {
+      "id": "faq-6",
+      "question": "Kamera görüntülerine cep telefonundan uzaktan erişilebilir mi?",
+      "answer": "Evet. Kurduğumuz NVR/DVR sistemler P2P teknolojisiyle DMSS ve Hik-Connect uygulamaları üzerinden statik IP gerekmeden 7/24 canlı izleme sağlar."
+    }
+  ],
+  "customSections": [
+    {
+      "id": "sec-kurumsal-avantaj",
+      "tag": "NEDEN BİZ?",
+      "title": "Kesintisiz Destek, Güvenilir Altyapı",
+      "description": "Kahramanmaraş'ta yüzlerce işletmenin bilişim ve güvenlik altyapısını sorunsuz yönetiyoruz.",
+      "cards": [
+        {
+          "id": "card-1",
+          "title": "7/24 Yerinde SLA Desteği",
+          "desc": "Arıza ve kesinti anında dakikalar içinde uzaktan veya yerinde hızlı müdahale garantisi sunuyoruz."
+        },
+        {
+          "id": "card-2",
+          "title": "Resmi Akınsoft Bayi Güvencesi",
+          "desc": "Lisanslama, versiyon geçişi ve e-dönüşüm süreçlerinde doğrudan yetkili teknik ekip desteği."
+        },
+        {
+          "id": "card-3",
+          "title": "Orijinal Donanım & Resmi Garanti",
+          "desc": "Dahua, Hikvision, Honeywell ve dokunmatik POS cihazlarında distribütör garantili sıfır ürünler."
+        }
+      ]
+    }
+  ]
+}

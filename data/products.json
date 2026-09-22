@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prod-1",
+    "category": "WEB & E-TİCARET",
+    "categoryBadge": "Web & Yazılım",
+    "title": "Kurumsal Web Sitesi & CMS Yönetim Paneli",
+    "description": "Mobil uyumlu (responsive) kurumsal web tasarımı, Google SEO ve Harita kaydı, kurumsal e-posta, SSL sertifikası, hızlı bulut hosting ve kolay kullanımlı Türkçe yönetim paneli dahil anahtar teslim çözüm.",
+    "image": "/images/products/web-cms-mockup.png"
+  },
+  {
+    "id": "prod-2",
+    "category": "WEB & E-TİCARET",
+    "categoryBadge": "Web & Yazılım",
+    "title": "B2B & E-Ticaret Entegre Sipariş Portalı",
+    "description": "Sanal POS (PayTR, İyzico) ödeme altyapısı, Akınsoft ERP ile anlık çift yönlü stok senkronizasyonu, otomatik kargo entegrasyonu ve bayi B2B cari hesap yönetim sistemi.",
+    "image": "/images/products/b2b-portal-mockup.png"
+  },
+  {
+    "id": "prod-3",
+    "category": "YAZILIM",
+    "categoryBadge": "ERP & Yazılım",
+    "title": "Akınsoft Wolvox ERP Kurumsal Lisans",
+    "description": "Stok, fatura, cari hesap, sipariş, irsaliye, çek/senet ve banka yönetimini tek ekranda toplayan e-Dönüşüm hazır, sınırsız kullanıcı ve şube destekli kurumsal ERP altyapısı.",
+    "image": "/images/products/akinsoft-wolvox-erp.png"
+  },
+  {
+    "id": "prod-4",
+    "category": "GÜVENLİK KAMERA",
+    "categoryBadge": "Güvenlik Kamera",
+    "title": "Dahua 4K Full-Color IP Dome Kamera",
+    "description": "8MP ultra yüksek çözünürlük, F1.0 geniş diyafram ile zifiri karanlıkta 7/24 renkli görüntü. Dahili mikrofon ve hoparlörle iki yönlü ses iletimi, IP67 dış ortam koruması ve yapay zekâ hedef tespiti.",
+    "image": "/images/products/dahua-dome-4k.png"
+  },
+  {
+    "id": "prod-5",
+    "category": "GÜVENLİK KAMERA",
+    "categoryBadge": "Güvenlik Kamera",
+    "title": "Hikvision 4MP AcuSense Bullet Kamera",
+    "description": "Akıllı insan/araç sınıflandırması, 60m kızılötesi gece görüşü. Dahili flaşör ve sesli siren ile aktif caydırıcılık, PoE üzerinden tek kabloyla enerji ve veri aktarımı.",
+    "image": "/images/products/hikvision-bullet-acusense.png"
+  },
+  {
+    "id": "prod-6",
+    "category": "POS & DONANIM",
+    "categoryBadge": "POS & Donanım",
+    "title": "15.6\" Endüstriyel Dokunmatik POS Terminal",
+    "description": "Intel J4125 fansız işlemci, 8GB DDR4 RAM, 128GB SSD. Toza ve sıvı sıçramalarına dayanıklı True-Flat kapasitif dokunmatik ekran, Akınsoft ile %100 uyumlu.",
+    "image": "/images/products/pos-terminal-15-6.png"
+  },
+  {
+    "id": "prod-7",
+    "category": "YAZICI & BARKOD",
+    "categoryBadge": "Yazıcı & Barkod",
+    "title": "Honeywell Voyager 1250g Endüstriyel Barkod Okuyucu",
+    "description": "Yoğun kasalar için agresif lazer okuma. Hasarlı/silik 1D barkodları ilk okumada algılama kabiliyeti, 1.5m beton düşme dayanımı ve USB tak-çalıştır mimari.",
+    "image": "/images/products/honeywell-voyager-1250g.png"
+  },
+  {
+    "id": "prod-8",
+    "category": "YAZICI & BARKOD",
+    "categoryBadge": "Yazıcı & Barkod",
+    "title": "80mm Otomatik Kesicili Ağ/Termal Fiş Yazıcı",
+    "description": "250mm/sn ultra yüksek baskı hızı. USB + Ethernet LAN bağlantısıyla mutfak ve kasa adisyonları için ağdan ortak kullanım, otomatik bıçak ve kolay kağıt yükleme.",
+    "image": "/images/products/thermal-receipt-printer-80mm.png"
+  },
+  {
+    "id": "prod-9",
+    "category": "GÜVENLİK KAMERA",
+    "categoryBadge": "Güvenlik Kamera",
+    "title": "Dahua 16 Kanal 4K H.265+ PoE NVR Kayıt Cihazı",
+    "description": "16 kanal bağımsız PoE portu, 4K Ultra HD eşzamanlı kayıt ve canlı izleme, çift SATA HDD yuvası, yapay zekâ yüz ve insan/araç analizi destekli kurumsal NVR.",
+    "image": "/images/products/dahua-nvr-16ch.png"
+  }
+]
